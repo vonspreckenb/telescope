@@ -1,0 +1,20 @@
+name,type,constellation,mag,ra,dec,distance_ly,description
+Andromeda Galaxy,Galaxy,Andromeda,3.4,10.68,41.27,2500000,Our nearest galactic neighbor and the most distant object visible to the naked eye.
+Orion Nebula,Nebula,Orion,4.0,83.82,-5.39,1344,A bright stellar nursery visible to the naked eye as the middle 'star' in Orion's sword.
+Pleiades,Open Cluster,Taurus,1.6,56.75,24.12,444,The Seven Sisters. A stunning blue reflection nebula and cluster.
+Hercules Cluster,Globular Cluster,Hercules,5.8,250.42,36.46,22000,A massive ball of several hundred thousand stars.
+Whirlpool Galaxy,Galaxy,Canes Venatici,8.4,202.47,47.19,23000000,A classic spiral galaxy interacting with a smaller companion galaxy.
+Ring Nebula,Planetary Nebula,Lyra,8.8,283.40,33.03,2000,The glowing remains of a sun-like star that shed its outer layers.
+Crab Nebula,Supernova Remnant,Taurus,8.4,83.63,22.01,6500,The remnant of a massive star explosion observed by Chinese astronomers in 1054 AD.
+Lagoon Nebula,Nebula,Sagittarius,6.0,271.03,-24.38,4100,A giant interstellar cloud in the constellation Sagittarius.
+Sombrero Galaxy,Galaxy,Virgo,8.0,189.99,-11.62,29000000,A spiral galaxy seen edge-on with a prominent dust lane resembling a hat.
+Eagle Nebula,Nebula,Serpens,6.4,274.70,-13.81,7000,Famous for the 'Pillars of Creation' photographed by Hubble.
+Dumbbell Nebula,Planetary Nebula,Vulpecula,7.4,299.90,22.72,1360,The first planetary nebula to be discovered.
+Triangulum Galaxy,Galaxy,Triangulum,5.7,23.46,30.66,3000000, The third-largest member of our Local Group of galaxies.
+Beehive Cluster,Open Cluster,Cancer,3.7,130.10,19.68,577,One of the nearest open clusters to Earth.
+Bode's Galaxy,Galaxy,Ursa Major,6.9,148.89,69.07,12000000,A grand design spiral galaxy near the Big Dipper.
+Cigar Galaxy,Galaxy,Ursa Major,8.4,148.97,69.68,12000000,A starburst galaxy appearing edge-on near Bode's Galaxy.
+Wild Duck Cluster,Open Cluster,Scutum,5.8,282.76,-6.27,6200,One of the richest and most compact open clusters.
+Butterfly Cluster,Open Cluster,Scorpius,4.2,263.40,-32.22,1600,A bright cluster that resembles the shape of a butterfly.
+Ptolemy's Cluster,Open Cluster,Scorpius,3.3,268.28,-34.79,980,A large cluster visible to the naked eye near the stinger of the Scorpion.
+Omega Centauri,Globular Cluster,Centaurus,3.9,201.70,-47.48,15800,The largest globular cluster in the Milky Way, containing millions of stars.
